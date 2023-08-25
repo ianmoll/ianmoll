@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **Frontend Development**
 
 - 📫 How to reach me **chandraanmol0@gmail.com**
 
