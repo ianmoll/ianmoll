@@ -3,9 +3,9 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src = "https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif?itemid=13165216">
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Python(ML)**
 
-- 💬 Ask me about **Frontend Development**
+- 💬 Ask me about **Data Analysis**
 
 - 📫 How to reach me **chandraanmol0@gmail.com**
 
