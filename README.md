@@ -1,4 +1,5 @@
-[![MasterHead](https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif)](https://media.licdn.com/dms/image/C4D03AQFhAkJNw8qkOA/profile-displayphoto-shrink_800_800/0/1667940890441?e=1697068800&v=beta&t=z6aZr3gs4HG-QM4GAzJaNPr8AU1Hrg--6oiq5TzTY-g)
+<img src="https://cdn.dribbble.com/userupload/22385870/file/original-bc7b9ee5b103b8f5b5784e054122d4a2.gif"/>
+
 <h1 align="center">Hi 👋, I'm Anmol Chandra</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="Coding" width="400" src = "https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif?itemid=13165216">
